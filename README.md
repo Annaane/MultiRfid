@@ -12,8 +12,7 @@ This is a multiple RFID Readers system designed specifically for an Escape Room.
         - Push button (for manual openning).
    #### Software :
         - Arduino IDE.
-        - Arduino [RFID Library for MFRC522 by miguelbalboa](https://github.com/miguelbalboa/rfid).
-        
+        - Arduino [RFID Library for MFRC522 by miguelbalboa](https://github.com/miguelbalboa/rfid).     
 ## Functioning :
     - Green Led turns on when the door opens.
     - Red Led blinks slowly two times when system needs more tags.
