@@ -4,17 +4,18 @@ This is a multiple RFID Readers system designed specifically for an Escape Room.
 
 ## Requirements :
    #### Hardware :
-        - Arduino UNO.
-        - 4 x MFRC522 RFID Reader Modules.
-        - Relay module.
-        - Leds.
-        - Jumper wires.
-        - Push button (for manual openning).
+   * Arduino UNO.
+   * 4 x MFRC522 RFID Reader Modules.
+   * Relay module.
+   * Leds.
+   * Jumper wires.
+   * Push button (for manual opening).
    #### Software :
-        - Arduino IDE.
-        - Arduino [RFID Library for MFRC522 by miguelbalboa](https://github.com/miguelbalboa/rfid).     
+   * Arduino IDE.
+   * Arduino [RFID Library for MFRC522 by miguelbalboa](https://github.com/miguelbalboa/rfid).     
+
 ## Functioning :
-    - Green Led turns on when the door opens.
-    - Red Led blinks slowly two times when system needs more tags.
-    - Red Led blinks fast many times (4, maybe?) when the card isn't allowed.
-    - A push button added for manual opening (intended for the cleaning staff).
+   * Green Led turns on when the door opens.
+   * Red Led blinks slowly two times when system needs more tags.
+   * Red Led blinks fast many times (4, maybe?) when the card isn't allowed.
+   * A push button added for manual opening (intended for the cleaning staff).
