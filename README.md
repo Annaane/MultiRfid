@@ -6,7 +6,7 @@ This is a multiple RFID Readers system designed specifically for an Escape Room.
    #### Hardware :
    * Arduino UNO.
    * 4 x MFRC522 RFID Reader Modules.
-   * 13.56 MHz Key/card tags. 
+   * 13.56 MHz RFID key/card tags. 
    * Relay module.
    * Leds.
    * Jumper wires.
