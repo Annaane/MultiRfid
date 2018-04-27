@@ -22,5 +22,4 @@ This is a multiple RFID Readers system designed specifically for an Escape Room.
    * A push button added for manual opening (intended for the cleaning staff).
    
  ## TL;DR?
- Do you want to **_see it_** working ? Check the video :  
- https://www.youtube.com/watch?v=ahc8Yai_sWI&t=18s 
+ Do you want to **_see it_** working ? Check the video : https://www.youtube.com/watch?v=ahc8Yai_sWI
