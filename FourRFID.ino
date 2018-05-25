@@ -31,7 +31,7 @@
 #include <SPI.h>
 #include <MFRC522.h>
 
-// PIN Numbers : RESET + SCKs
+// PIN Numbers : RESET + SDAs
 #define RST_PIN         9
 #define SS_1_PIN        10
 #define SS_2_PIN        8
